@@ -2,9 +2,14 @@
 
 ## Files for making the phyloseq object
 
-###Rscript: FeOx_phyloseq.R
-###OTU table: seqtab.rds
-###Taxa table: taxa.rds
-###Metadata: FeOx_demux_metadata.csv
+Rscript: FeOx_phyloseq.R
+
+OTU table: seqtab.rds
+
+Taxa table: taxa.rds
+
+Metadata: FeOx_demux_metadata.csv
+
+## Files for Time Series Analysis
 
 Phyloseq object: feox-phyloseq.rds
