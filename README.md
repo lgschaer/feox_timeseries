@@ -16,5 +16,7 @@ https://github.com/lch14forever/BEEM-static
 
 Rscript: FeOx_beemstatic.R
 
+### Shows how to go from a phyloseq object to the necessary input for BEEM-static package
+
 Phyloseq object: feox-phyloseq.rds
 
