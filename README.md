@@ -10,7 +10,7 @@ Taxa table: taxa.rds
 
 Metadata: FeOx_demux_metadata.csv
 
-## Files for BEEM-static analysis
+## Files for BEEM-static analysis (network graphs)
 
 https://github.com/lch14forever/BEEM-static
 
