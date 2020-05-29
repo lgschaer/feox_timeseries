@@ -20,7 +20,7 @@ Rscript: FeOx_beemstatic.R
 
 Phyloseq object: feox-phyloseq.rds
 
-## Converting phyloseq object into format to use Web-gLV
+## Converting phyloseq object into format to use with Web-gLV
 
 Tool: https://web.rniapps.net/webglv/
 
