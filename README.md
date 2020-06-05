@@ -29,3 +29,7 @@ Rscript: phyloseq_to_web_gLV.R
 Phyloseq object: feox-phyloseq.rds
 
 Output TSV table: gLV_otu_table.tsv
+
+## Make network out of phyloseq object using tidyverse and ggplot2
+
+Rscript: FeOx_networks.R
