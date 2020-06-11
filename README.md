@@ -33,3 +33,4 @@ Output TSV table: gLV_otu_table.tsv
 ## Make network out of phyloseq object using tidyverse and ggplot2
 
 Rscript: FeOx_networks.R
+Rscript for faceting by time: FeOx_TimeNetworks.R
